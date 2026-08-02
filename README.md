@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sohana Pilli</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sohana+Pilli" />
+</p>
 
 <h3 align="center">
 AI & Machine Learning Enthusiast • EXTC Engineering Student • Full Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Full+Stack+Development;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+and+Machine+Learning;Full+Stack+Development" />
 </p>
 
 <p align="center">
@@ -28,90 +30,16 @@ My interests lie at the intersection of **Artificial Intelligence**, **Machine L
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sohana881&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohana881&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sohana881&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohana881&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🌟 Featured Projects
-
-### 🚀 AI-enabled Exoplanet Detection
-Detecting exoplanets from noisy astronomical light curves using Machine Learning.
-
-### 🎥 Video Action Recognition
-Real-time human action recognition with intelligent alert generation.
-
-### 🌊 AI Oceanographic Platform
-AI-powered platform for marine biodiversity and oceanographic insights.
-
----
+| Category | Technologies |
+|----------|--------------|
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" /> |
+| 🤖 **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> |
+| 🌐 **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> |
+| 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" /> |
 
 # 🌱 Currently Exploring
 
