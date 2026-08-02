@@ -1,16 +1,151 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sohana Pilli</h1>
 
-<!--
-**Sohana881/Sohana881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI & Machine Learning Enthusiast • EXTC Engineering Student • Full Stack Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Full+Stack+Development;Always+Learning+New+Things!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sohana881&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+# 🚀 About Me
+
+I'm an **Electronics & Telecommunication Engineering** student passionate about building intelligent software that solves real-world problems.
+
+My interests lie at the intersection of **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Full-Stack Development**. I enjoy transforming ideas into practical applications while continuously learning modern technologies.
+
+- 🌱 Currently learning **LLMs, Agentic AI, Computer Vision & Cloud**
+- 🤖 Building AI-powered applications
+- 💡 Interested in solving real-world problems through technology
+- 📚 Always exploring new tools and frameworks
+- 🎯 Goal: Build impactful AI products used by people
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sohana881&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohana881&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sohana881&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohana881&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+### 🚀 AI-enabled Exoplanet Detection
+Detecting exoplanets from noisy astronomical light curves using Machine Learning.
+
+### 🎥 Video Action Recognition
+Real-time human action recognition with intelligent alert generation.
+
+### 🌊 AI Oceanographic Platform
+AI-powered platform for marine biodiversity and oceanographic insights.
+
+---
+
+# 🌱 Currently Exploring
+
+- 🧠 Large Language Models (LLMs)
+- 🤖 Agentic AI
+- 👁️ Computer Vision
+- ☁️ Cloud Computing
+- 📊 Deep Learning
+- ⚡ FastAPI
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sohana881">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+💙 *"Building intelligent solutions that create real-world impact."*
+
+</h3>
