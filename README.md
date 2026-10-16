@@ -256,11 +256,11 @@ Cloud & Deployment
 # 📊 `DEVELOPER_TELEMETRY`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sohana881&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak"/>
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS_THIS_YEAR-871-7CFFB2?style=for-the-badge&logo=github&logoColor=white" alt="871 contributions this year"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sohana881&theme=tokyonight" width="95%" alt="GitHub activity summary"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sohana881&theme=tokyonight&hide_border=true" width="75%" alt="Current and longest GitHub contribution streak"/>
 </p>
 
 <p align="center">
